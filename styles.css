@@ -1,0 +1,16 @@
+.valid{
+    background-color: lightgreen;
+  
+}
+
+.invalid{
+    background-color:coral;
+}
+
+
+form{
+    justify-content: centre;
+    margin: auto;
+    align-self: center;
+    text-align: center;
+}
